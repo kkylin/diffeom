@@ -1,0 +1,15 @@
+(load "load")
+
+(define nodes (make-real-square-domain 3 3))
+(define m (sparse->matrix (fem 0-function nodes node:get-x)))
+(define v (lu-solve m))
+
+(let ((port (open-output-file "test"))
+      (n (vector-length v)))
+  (print-matrix m port)
+  (newline port)
+  (newline port)
+  (do ((i 0 (+ i 1)))
+      ((>= i n))
+    (write-line (vector-ref v i) port))
+  (close-output-port port))
