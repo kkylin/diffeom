@@ -1,10 +1,11 @@
 #|
 
-This file is part of DIFFEOM, a system for solving
-differential equations on manifolds.
+This file is part of DIFFEOM ("DIFFerential Equations
+On Manifolds"), a system for solving differential
+equations on manifolds.
 
 Copyright (C) 2016 by Kevin K Lin
-<kkylin@alum.mit.edu>
+<klin@math.arizona.edu>
 
 This program is free software; you can redistribute
 it and/or modify it under the terms of the GNU
