@@ -1,0 +1,25 @@
+;;; A list of files to compile (see make.scm):
+
+2d-poly-basis.scm
+2d-domains.scm
+2d-operators.scm
+2d-real-basis.scm
+2d-real-diff.scm
+2d-trapezoid.scm
+basis.scm
+debug.scm
+delaunay.scm
+delaux.scm
+dyntable.scm
+edge.scm
+fem.scm
+matlib.scm
+nodes.scm
+operators.scm
+relax.scm
+sparse.scm
+util.scm
+util-too.scm
+
+;;; All filenames not enclosed in quotation marks are assumed to be
+;;; all lower-case.
