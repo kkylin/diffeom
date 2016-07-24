@@ -1,11 +1,12 @@
-This is DIFFEOM, a Scheme library for numerically solving
-differential equations on manifolds.  It is the source code
-for MIT AI Tech Memo 1631 (see below), which basically
-documents my MEng thesis, written at Project MAC under the
-direction of Gerald Jay Sussman.  The goal was to provide a
-software framework for solving differential equations
-(ordinary and partial) on manifolds, with a focus on those
-equations arising from classical mechanics.
+This is DIFFEOM ("DIFFerential Equations On Manifolds"), a
+Scheme library for numerically solving differential
+equations on manifolds.  It is the source code for MIT AI
+Tech Memo 1631 (see below), which basically documents my
+MEng thesis, written at Project MAC under the direction of
+Gerald Jay Sussman.  The goal was to provide a software
+framework for solving differential equations (ordinary and
+partial) on manifolds, with a focus on those equations
+arising from classical mechanics.
 
 Main features:
 
