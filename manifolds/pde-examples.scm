@@ -1,3 +1,30 @@
+#|
+
+This file is part of DIFFEOM, a system for solving
+differential equations on manifolds.
+
+Copyright (C) 2016 by Kevin K Lin
+<kkylin@alum.mit.edu>
+
+This program is free software; you can redistribute
+it and/or modify it under the terms of the GNU
+General Public License as published by the Free
+Software Foundation; either version 2 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it
+will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General
+Public License along with this program; if not, write
+to the Free Software Foundation, Inc., 51 Franklin
+Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+|#
+
 ;;; We won't get any farther on this endeavor without defining some good
 ;;; examples.  A good example to use first is Laplace's equation, since the
 ;;; answers are easy to check.  Another option is to define something on the
