@@ -55,7 +55,7 @@ work and family obligations, I may not be able to answer all
 emails.
 
 Kevin K Lin
-kkylin@alum.mit.edu
+klin@math.arizona.edu
 July 24, 2016
 
 ----------------------------------------------------------------------------
