@@ -11,7 +11,11 @@ Main features:
 1. Implementation of smooth manifolds as computational
    objects.  Basic manifolds are defined via charts;
    procedures are provided to compose simpler manifolds to
-   form more complex ones.
+   form more complex ones.  For example, given a manifold,
+   one can construct its tangent and cotangent bundles.
+   Basic manifolds provided include circles, spheres, and
+   the rotation group SO(3) (useful for modeling rigid body
+   motion).
 
 2. Numerical ODE solver on manifolds.
 
