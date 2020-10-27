@@ -1,0 +1,13 @@
+If you find this software useful in your work (in part or in
+whole), please cite the following:
+
+KK Lin, "Coordinate-independent computations on differential
+equations", MIT AI Tech Memo 1631 (1997)
+
+@techreport{lin-aim1631-1997,
+     title = {{Coordinate-independent computations on differential equations}},
+     author = {Kevin K. Lin},
+     year = {1997},
+     institution = {Artificial Intelligence Laboratory, Massachusetts Institute of Technology},
+     number = {AI Tech Memo 1631},
+}
