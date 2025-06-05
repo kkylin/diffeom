@@ -50,13 +50,12 @@ A few notes on various quirks:
 
 The original abstract is below.
 
-I welcome questions, comments, what you use it for.  Due to
-work and family obligations, I may not be able to answer all
-emails.
+I welcome questions, comments, what you use it for.
 
 Kevin K Lin
-klin@math.arizona.edu
+lin1@arizona.edu
 July 24, 2016
+updated June 4, 2025
 
 ----------------------------------------------------------------------------
 
